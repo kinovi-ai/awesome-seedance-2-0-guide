@@ -28,7 +28,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left"><a href="./README.md">Previous</a></td>
+      <td align="left"><a href="../README.md">Previous</a></td>
       <td align="right"><a href="./02-recommended-seedance-2-0-pro-access-point.md">Next</a></td>
     </tr>
   </table>

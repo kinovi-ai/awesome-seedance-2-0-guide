@@ -24,7 +24,7 @@ This section collects high-quality prompts from the community, covering action f
   <table>
     <tr>
       <td align="left"><a href="./13-references.md">Previous</a></td>
-      <td align="right"><a href="./README.md">Next</a></td>
+      <td align="right"><a href="../README.md">Next</a></td>
     </tr>
   </table>
 </div>
