@@ -22,6 +22,11 @@
 
 ---
 
-[Previous](./12-final-notes.md)  
-[Index](./README.md)  
-[Next](./14-curated-prompt-library.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./12-final-notes.md">Previous</a></td>
+      <td align="right"><a href="./14-curated-prompt-library.md">Next</a></td>
+    </tr>
+  </table>
+</div>

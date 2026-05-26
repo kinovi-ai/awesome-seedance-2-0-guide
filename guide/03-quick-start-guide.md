@@ -43,6 +43,11 @@ Describe the video you want in natural language, hit Generate, and wait for the 
 
 ---
 
-[Previous](./02-recommended-seedance-2-0-pro-access-point.md)  
-[Index](./README.md)  
-[Next](./04-prompt-formula-and-core-syntax.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./02-recommended-seedance-2-0-pro-access-point.md">Previous</a></td>
+      <td align="right"><a href="./04-prompt-formula-and-core-syntax.md">Next</a></td>
+    </tr>
+  </table>
+</div>

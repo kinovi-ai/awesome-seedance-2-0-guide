@@ -28,6 +28,11 @@ A practical combo is 3–5 key images + 1–2 reference clips + 1 music track. C
 
 ---
 
-[Previous](./07-practical-templates-you-can-copy.md)  
-[Index](./README.md)  
-[Next](./09-faq-plus-common-pitfalls.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./07-practical-templates-you-can-copy.md">Previous</a></td>
+      <td align="right"><a href="./09-faq-plus-common-pitfalls.md">Next</a></td>
+    </tr>
+  </table>
+</div>

@@ -70,6 +70,11 @@ Describe the video in time segments so the model follows you more closely:
 
 ---
 
-[Previous](./03-quick-start-guide.md)  
-[Index](./README.md)  
-[Next](./05-8-core-use-cases.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./03-quick-start-guide.md">Previous</a></td>
+      <td align="right"><a href="./05-8-core-use-cases.md">Next</a></td>
+    </tr>
+  </table>
+</div>

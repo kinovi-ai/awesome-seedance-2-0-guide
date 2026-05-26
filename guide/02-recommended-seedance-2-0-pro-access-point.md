@@ -16,6 +16,11 @@
 
 ---
 
-[Previous](./01-understanding-seedance-2-0-in-one-minute.md)  
-[Index](./README.md)  
-[Next](./03-quick-start-guide.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./01-understanding-seedance-2-0-in-one-minute.md">Previous</a></td>
+      <td align="right"><a href="./03-quick-start-guide.md">Next</a></td>
+    </tr>
+  </table>
+</div>

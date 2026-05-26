@@ -10,6 +10,11 @@ Questions or ideas? Feel free to reach out.
 
 ---
 
-[Previous](./11-10-god-tier-workflows-with-real-examples.md)  
-[Index](./README.md)  
-[Next](./13-references.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./11-10-god-tier-workflows-with-real-examples.md">Previous</a></td>
+      <td align="right"><a href="./13-references.md">Next</a></td>
+    </tr>
+  </table>
+</div>

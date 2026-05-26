@@ -36,6 +36,11 @@ Seedance 2.0 is surprisingly good at understanding filmmaking terms. Using these
 
 ---
 
-[Previous](./05-8-core-use-cases.md)  
-[Index](./README.md)  
-[Next](./07-practical-templates-you-can-copy.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./05-8-core-use-cases.md">Previous</a></td>
+      <td align="right"><a href="./07-practical-templates-you-can-copy.md">Next</a></td>
+    </tr>
+  </table>
+</div>

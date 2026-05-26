@@ -42,6 +42,11 @@
 
 ---
 
-[Previous](./08-advanced-tips-and-how-to-save-credits.md)  
-[Index](./README.md)  
-[Next](./10-advanced-prompt-guide-for-power-users.md)
+<div align="center">
+  <table>
+    <tr>
+      <td align="left"><a href="./08-advanced-tips-and-how-to-save-credits.md">Previous</a></td>
+      <td align="right"><a href="./10-advanced-prompt-guide-for-power-users.md">Next</a></td>
+    </tr>
+  </table>
+</div>
