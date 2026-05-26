@@ -14,6 +14,26 @@ Simply put: **You imagine it, and it makes it happen.**
 
 ---
 
+## Table of Contents
+
+1. [Understanding Seedance 2.0 in One Minute](./guide/01-understanding-seedance-2-0-in-one-minute.md)
+2. [Recommended Seedance 2.0 Pro Access Point](./guide/02-recommended-seedance-2-0-pro-access-point.md)
+3. [Quick Start Guide](./guide/03-quick-start-guide.md)
+4. [Prompt Formula and Core Syntax](./guide/04-prompt-formula-and-core-syntax.md)
+5. [8 Core Use Cases](./guide/05-8-core-use-cases.md)
+6. [Camera Language Cheat Sheet](./guide/06-camera-language-cheat-sheet.md)
+7. [Practical Templates You Can Copy](./guide/07-practical-templates-you-can-copy.md)
+8. [Advanced Tips and How to Save Credits](./guide/08-advanced-tips-and-how-to-save-credits.md)
+9. [FAQ Plus Common Pitfalls](./guide/09-faq-plus-common-pitfalls.md)
+10. [Advanced Prompt Guide for Power Users](./guide/10-advanced-prompt-guide-for-power-users.md)
+11. [10 God-Tier Workflows With Real Examples](./guide/11-10-god-tier-workflows-with-real-examples.md)
+12. [Final Notes](./guide/12-final-notes.md)
+13. [References](./guide/13-references.md)
+14. [Curated Prompt Library](./guide/14-curated-prompt-library.md)
+15. [Prompt Sources](./guide/15-prompt-sources.md)
+
+---
+
 ## Understanding Seedance 2.0 in One Minute
 
 ### What can it do?
@@ -173,21 +193,3 @@ Describe the video in time segments so the model follows you more closely:
 - [Final Notes](./guide/12-final-notes.md)
 - [References](./guide/13-references.md)
 - [Curated Prompt Library](./guide/14-curated-prompt-library.md)
-
-## Table of Contents
-
-1. [Understanding Seedance 2.0 in One Minute](./guide/01-understanding-seedance-2-0-in-one-minute.md)
-2. [Recommended Seedance 2.0 Pro Access Point](./guide/02-recommended-seedance-2-0-pro-access-point.md)
-3. [Quick Start Guide](./guide/03-quick-start-guide.md)
-4. [Prompt Formula and Core Syntax](./guide/04-prompt-formula-and-core-syntax.md)
-5. [8 Core Use Cases](./guide/05-8-core-use-cases.md)
-6. [Camera Language Cheat Sheet](./guide/06-camera-language-cheat-sheet.md)
-7. [Practical Templates You Can Copy](./guide/07-practical-templates-you-can-copy.md)
-8. [Advanced Tips and How to Save Credits](./guide/08-advanced-tips-and-how-to-save-credits.md)
-9. [FAQ Plus Common Pitfalls](./guide/09-faq-plus-common-pitfalls.md)
-10. [Advanced Prompt Guide for Power Users](./guide/10-advanced-prompt-guide-for-power-users.md)
-11. [10 God-Tier Workflows With Real Examples](./guide/11-10-god-tier-workflows-with-real-examples.md)
-12. [Final Notes](./guide/12-final-notes.md)
-13. [References](./guide/13-references.md)
-14. [Curated Prompt Library](./guide/14-curated-prompt-library.md)
-15. [Prompt Sources](./guide/15-prompt-sources.md)
