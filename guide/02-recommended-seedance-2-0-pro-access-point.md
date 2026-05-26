@@ -1,6 +1,6 @@
 ## Recommended Seedance 2.0 Pro access point
 
-**Link**: [https://seedance2-pro.com/](https://seedance2-pro.com/)
+**Link**: [https://kinovi.ai/](https://kinovi.ai/)
 
 - The easiest way to try Seedance 2.0
 
