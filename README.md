@@ -1,5 +1,7 @@
 # Seedance 2.0 Ultimate Guide + Selected Tips
 
+A practical Seedance 2.0 guide with prompt examples, workflows, camera tips, and curated references for AI video generation.
+
 ---
 
 ## Recommended Seedance 2.0 Pro access point
@@ -12,15 +14,17 @@
 - Supports multimodal inputs: images, video, and audio
 - Join the community: [https://discord.com/invite/rzTfv5KFrK](https://discord.com/invite/rzTfv5KFrK)
 
+![Seedance 2.0 interface on Kinovi](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/55a707dd-d154-400d-8076-be1d159c4411/image.png?table=block&id=30bd38a8-50fc-81d2-becc-f51c17b74cc1&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=vVXcj_7zj_hxaXy0MMl7BSS5MuFYoHiNpKk_bgoHZsg)
+
 ---
 
 ## Introduction
 
-Still tearing your hair out over video creation? Want AI-generated videos to be more "obedient"?
+This repository is a structured Seedance 2.0 guide covering prompts, workflows, references, and curated examples for AI video generation.
 
-**Seedance 2.0 is here!** This upgrade is nothing short of explosive—it supports a free combination of four input methods: images, videos, audio, and text. You can play with it however you want.
+Seedance 2.0 supports flexible multimodal creation with images, videos, audio, and text, making it easier to build more controllable AI-generated videos.
 
-Simply put: **You imagine it, and it makes it happen.**
+If you are looking for Seedance prompts, prompt structures, camera ideas, and practical workflows, this guide is organized to help you find them quickly.
 
 > "Seedance 2.0 is the world's strongest video model right now, bar none." —— @op7418
 
