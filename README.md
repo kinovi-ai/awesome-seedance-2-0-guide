@@ -1,36 +1,50 @@
 # Seedance 2.0 Ultimate Guide + Selected Tips
 
-This repository contains the source-faithful Markdown export of the original Notion article:
+---
 
-<https://www.notion.so/Seedance-2-0-Ultimate-Guide-Selected-Tips-30bd38a850fc80efb721c4c4d9f4e0ca>
+## Introduction
 
-## Navigation
+Still tearing your hair out over video creation? Want AI-generated videos to be more "obedient"?
 
-### Intro
+**Seedance 2.0 is here!** This upgrade is nothing short of explosive—it supports a free combination of four input methods: images, videos, audio, and text. You can play with it however you want.
 
-- [Guide Index](./guide/README.md)
+Simply put: **You imagine it, and it makes it happen.**
 
-### Main Sections
+> "Seedance 2.0 is the world's strongest video model right now, bar none." —— @op7418
+
+---
+
+## Table of Contents
 
 1. [Understanding Seedance 2.0 in One Minute](./guide/01-understanding-seedance-2-0-in-one-minute.md)
-2. [Recommended Access Points](./guide/02-recommended-seedance-2-0-pro-access-point.md)
-3. [Quick Start Guide](./guide/03-quick-start-guide.md)
-4. [Prompt Formula & Core Syntax](./guide/04-prompt-formula-and-core-syntax.md)
-5. [8 Core Use Cases](./guide/05-8-core-use-cases.md)
-6. [Camera Language Quick Reference](./guide/06-camera-language-cheat-sheet.md)
-7. [Practical Example Templates](./guide/07-practical-templates-you-can-copy.md)
-8. [Advanced Tips & Money-Saving Strategies](./guide/08-advanced-tips-and-how-to-save-credits.md)
-9. [Common Questions & Pitfall Guide](./guide/09-faq-plus-common-pitfalls.md)
-10. [Professional Prompt Advanced Guide](./guide/10-advanced-prompt-guide-for-power-users.md)
-11. [10 God-Tier Use Cases in Practice](./guide/11-10-god-tier-workflows-with-real-examples.md)
-12. [Curated Prompt Library](./guide/14-curated-prompt-library.md)
+1. [Recommended Access Points](./guide/02-recommended-seedance-2-0-pro-access-point.md)
+1. [Quick Start Guide](./guide/03-quick-start-guide.md)
+1. [Prompt Formula & Core Syntax](./guide/04-prompt-formula-and-core-syntax.md)
+1. More chapters live inside the guide folder starting from `05`.
 
-### Additional Sections
+---
 
-- [Final Notes](./guide/12-final-notes.md)
-- [References](./guide/13-references.md)
+## Additional Sections
 
-## Notes
+### Final Notes
 
-- The original-content version is in `guide/`.
-- Media links inside the Markdown currently point to original Notion file URLs.
+Seedance 2.0 is still evolving, and there are more workflows to discover.
+
+Remember this: **On the surface it’s a video generator, but in practice it’s doing director + editor work.**
+
+Questions or ideas? Feel free to reach out.
+
+**Go try it and make AI your personal camera crew.**
+
+### References
+
+- [Seedance 2.0 official documentation](https://jimeng.jianying.com/)
+- [Seedance 2.0 complete prompt guide](https://blog.csdn.net/mizzlelover/article/details/158040401)
+- [Seedance 2.0 full operation manual](https://news.qq.com/rain/a/20260209A044NZ00)
+- [Seedance 2.0 complete getting-started guide](https://news.qq.com/rain/a/20260213A02AB700)
+- [YouMind Seedance 2.0 Prompts](https://www.notion.so)
+- [Seedance 2.0 Ultimate Prompt Guide - WenHaoFree](https://www.notion.so)
+- [Seedance Prompting Guide - WaveSpeed AI](https://wavespeed.ai/landing/seedance)
+- [Seedance 2.0 Guide: How To Master the Prompt Script - WeShop AI](https://www.notion.so)
+- [@aiwarts - 10 practical “god-tier” workflows](https://x.com/aiwarts/status/2022342787681939750)
+- [@realnyarime - YouTube remake walkthrough](https://x.com/realnyarime/status/2023321998282170488)

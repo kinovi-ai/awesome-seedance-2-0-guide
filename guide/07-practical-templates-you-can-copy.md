@@ -16,7 +16,7 @@ Background audio should feel epic and grand.
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/0c30ecca-16f4-49df-b421-5d30fcac90a2/image.png?table=block&id=30bd38a8-50fc-8169-aede-fc3c821c43e5&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=vuyXWmk8RTfi_PO8JRI-7_Am6wU6NDo-i1iFmP5I_JM)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/2ad03965-2a23-488d-95c1-7b7a728d5d2a/consistency-row6-result.mp4?table=block&id=30bd38a8-50fc-8123-bbb5-cb0694e0054a&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=fZgv1PI2QUGbOf7EtKfir3ReVjEf6H3cMJ7xenRL4gg" title="consistency-row6-result.mp4"></video>
+Video: [consistency-row6-result.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/2ad03965-2a23-488d-95c1-7b7a728d5d2a/consistency-row6-result.mp4?table=block&id=30bd38a8-50fc-8123-bbb5-cb0694e0054a&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=fZgv1PI2QUGbOf7EtKfir3ReVjEf6H3cMJ7xenRL4gg)
 
 ### Template 2: Cute pet voiceover
 
@@ -36,7 +36,7 @@ He scratches his head and mutters: “It’s fine…? No, it’s NOT fine! My gr
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/f5af1658-5765-4696-a420-e4e700bc7387/image.png?table=block&id=30bd38a8-50fc-818f-b401-e38491866cd2&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=BDy1blGY6gVeN6U-6zXuKCGIfrOQTw9VblwUkIc-zuY)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/d3565786-ec87-4039-896c-94545c7ffe8e/audio-precision-video-10.mp4?table=block&id=30bd38a8-50fc-81af-b6cd-c31663424f83&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=reVZ4i7Fi29Ci42q6swWmu0AF_1FzXWUiYEDbDywULE" title="audio-precision-video-10.mp4"></video>
+Video: [audio-precision-video-10.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/d3565786-ec87-4039-896c-94545c7ffe8e/audio-precision-video-10.mp4?table=block&id=30bd38a8-50fc-81af-b6cd-c31663424f83&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=reVZ4i7Fi29Ci42q6swWmu0AF_1FzXWUiYEDbDywULE)
 
 ### Template 3: Music video (MV) style
 
@@ -53,7 +53,7 @@ A breeze gently moves the edge of the clothing.
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/43109ee4-3e3c-421f-9ea8-f22091592a27/image.png?table=block&id=30bd38a8-50fc-8186-ad1b-cf45aa35260f&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=SFM3lAEVk93w4OdP4ETJV_rI_1skahuI3YN4s2Xh4VI)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/b75eb6ec-d507-42d5-88e8-0ce4b624cb11/audio-precision-video-05.mp4?table=block&id=30bd38a8-50fc-81c9-9a63-dd0cb981637c&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=sxNn9lKJ_PmF5LROyngd2q9ooddenvngk61ZVsIXJiU" title="audio-precision-video-05.mp4"></video>
+Video: [audio-precision-video-05.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/b75eb6ec-d507-42d5-88e8-0ce4b624cb11/audio-precision-video-05.mp4?table=block&id=30bd38a8-50fc-81c9-9a63-dd0cb981637c&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=sxNn9lKJ_PmF5LROyngd2q9ooddenvngk61ZVsIXJiU)
 
 ### Template 4: Multi-language voiceover
 
@@ -79,7 +79,7 @@ Brand line: “chéri, 당신에게 즉각적인 아름다움을 선사합니다
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/e4e079dc-5149-4635-b6c5-01e7c254ab16/image.png?table=block&id=30bd38a8-50fc-81db-bdd4-e0af4bb5cac4&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=u1P7oxGkDgEUcKu1ME7S9-fGeFzckPCgEYaGGTBBtzU)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/3b9079a6-aabb-4897-bb45-1054f4bf520c/consistency-row5-result.mp4?table=block&id=30bd38a8-50fc-81d1-8bf2-d8028c7e1d90&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=sGe0jbAyKOpFy_hd7K-8F51FQdwEnKtO5Env4VXWNNU" title="consistency-row5-result.mp4"></video>
+Video: [consistency-row5-result.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/3b9079a6-aabb-4897-bb45-1054f4bf520c/consistency-row5-result.mp4?table=block&id=30bd38a8-50fc-81d1-8bf2-d8028c7e1d90&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=sGe0jbAyKOpFy_hd7K-8F51FQdwEnKtO5Env4VXWNNU)
 
 ### Template 5: Emotional close-up
 
@@ -93,9 +93,9 @@ Fully copy the grabbing-the-mirror action and the breakdown emotion from @video1
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/16bdfe8b-212a-4b55-8d3e-f06b201a86fc/image.png?table=block&id=30bd38a8-50fc-818d-b2de-e35a07ad3cd6&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=eD2B1xdUweC0zXcJIa5xcptrZ1R7JW0lX9G90sLd7L4)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/43cb2126-2e58-4c67-a5c3-e0c6dffad577/emotion-acting-video-01.mp4?table=block&id=30bd38a8-50fc-81fd-ac68-ca380a68e8db&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=jHNLxm5_J2eaSTiOSQamNQMaZAchR513IGiLf151wVY" title="emotion-acting-video-01.mp4"></video>
+Video: [emotion-acting-video-01.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/43cb2126-2e58-4c67-a5c3-e0c6dffad577/emotion-acting-video-01.mp4?table=block&id=30bd38a8-50fc-81fd-ac68-ca380a68e8db&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=jHNLxm5_J2eaSTiOSQamNQMaZAchR513IGiLf151wVY)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/5ecb8f4d-f8b8-41e7-ac96-98d7eb770375/emotion-acting-video-02.mp4?table=block&id=30bd38a8-50fc-81f5-922d-f25cb623f8ca&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=stg11-ltuPFX0RjHDgCrqfs3C10kA_dbJ8jB72PTNTI" title="emotion-acting-video-02.mp4"></video>
+Video: [emotion-acting-video-02.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/5ecb8f4d-f8b8-41e7-ac96-98d7eb770375/emotion-acting-video-02.mp4?table=block&id=30bd38a8-50fc-81f5-922d-f25cb623f8ca&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=stg11-ltuPFX0RjHDgCrqfs3C10kA_dbJ8jB72PTNTI)
 
 ### Template 6: Mood video
 
@@ -116,7 +116,7 @@ Match the background music style to @video1.
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/b57ce199-8d17-476a-a944-7cde12ceb281/image.png?table=block&id=30bd38a8-50fc-8102-aa2e-faeae8a44967&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=LPDgLsAUmPMrETgTh44fqeZTKm9_uXb9KlD5nPWqCi0)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/2acf9729-c677-4583-b940-c9e609ab731a/story-completion-video-04.mp4?table=block&id=30bd38a8-50fc-81e3-a241-f822bd7d7816&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=X7AlUX_73wYMSPo7NakI22-IyGE8JG6Rw9Nud2T6Rbk" title="story-completion-video-04.mp4"></video>
+Video: [story-completion-video-04.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/2acf9729-c677-4583-b940-c9e609ab731a/story-completion-video-04.mp4?table=block&id=30bd38a8-50fc-81e3-a241-f822bd7d7816&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=X7AlUX_73wYMSPo7NakI22-IyGE8JG6Rw9Nud2T6Rbk)
 
 ### Template 7: Camera-move remake (car ad)
 
@@ -130,9 +130,9 @@ Background audio should feel epic and grand.
 
 ![image.png](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/07e8e288-333b-411d-9ea6-e7a775836db0/image.png?table=block&id=30bd38a8-50fc-8115-ab81-cfda7cbfa618&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=Jia9qrc7sZyOM98txCwSN0eKW3tGV0mdOI0HTVgw8fw)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/94c600f2-2271-4b8f-b457-744476bb11aa/camera-motion-video-14.mp4?table=block&id=30bd38a8-50fc-81d0-9187-dbb77a7e3d6b&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=s1ZH4H1UI5O_K1NiqzpZDejLIo1S4nDAztn5SkYEgWc" title="camera-motion-video-14.mp4"></video>
+Video: [camera-motion-video-14.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/94c600f2-2271-4b8f-b457-744476bb11aa/camera-motion-video-14.mp4?table=block&id=30bd38a8-50fc-81d0-9187-dbb77a7e3d6b&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=s1ZH4H1UI5O_K1NiqzpZDejLIo1S4nDAztn5SkYEgWc)
 
-<video controls preload="metadata" src="https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/a7bd7ecc-68a2-4bb0-831e-27b55c533c36/camera-motion-video-15.mp4?table=block&id=30bd38a8-50fc-8146-b351-e88cc4c0e7eb&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=V6etShgo2wBmqd7Ct1Lw1iXmoXf_u1MRy8CEF1dyhP8" title="camera-motion-video-15.mp4"></video>
+Video: [camera-motion-video-15.mp4](https://file.notion.so/f/f/f03d38a8-50fc-81bd-ba44-00039a771382/a7bd7ecc-68a2-4bb0-831e-27b55c533c36/camera-motion-video-15.mp4?table=block&id=30bd38a8-50fc-8146-b351-e88cc4c0e7eb&spaceId=f03d38a8-50fc-81bd-ba44-00039a771382&expirationTimestamp=1779789600000&signature=V6etShgo2wBmqd7Ct1Lw1iXmoXf_u1MRy8CEF1dyhP8)
 
 ---
 
