@@ -172,3 +172,5 @@ Describe the video in time segments so the model follows you more closely:
 - More chapters continue in [guide/05-8-core-use-cases.md](./guide/05-8-core-use-cases.md)
 - [Final Notes](./guide/12-final-notes.md)
 - [References](./guide/13-references.md)
+- [Curated Prompt Library](./guide/14-curated-prompt-library.md)
+- [Guide Index](./guide/README.md)
